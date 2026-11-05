@@ -26,3 +26,9 @@ University theses from Charles University in Prague, Faculty of Mathematics and 
 - Prague, 2014
 
 [Bachelor_Thesis_Quantum_Computers_2014.pdf](Bachelor_Thesis_Quantum_Computers_2014.pdf)
+
+## Certificate in Quantitative Finance (2025)
+
+Awarded by the CQF Institute, 13 November 2025.
+
+[CQF_Certificate_Eduard_Jesko_2025.png](certificates/CQF_Certificate_Eduard_Jesko_2025.png)
